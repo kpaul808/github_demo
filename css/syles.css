@@ -1,0 +1,45 @@
+body {
+	background-color: skyblue;
+}
+
+h1 {
+	color: blue;
+}
+
+div.shape{
+	width: 1500px;
+	height: 75px;
+}
+div#red{
+	background-color: red;
+}
+
+}
+div#orange{
+	background-color: orange;
+}
+
+}
+div#yellow{
+	background-color: yellow;
+}
+
+}
+div#green{
+	background-color: green;
+}
+
+}
+div#blue{
+	background-color: blue;
+}
+
+}
+div#indigo{
+	background-color: indigo;
+}
+
+}
+div#violet{
+	background-color: violet;
+}
